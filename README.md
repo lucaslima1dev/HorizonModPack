@@ -5,3 +5,5 @@ Bolar formas de drop nbc.
 Colocar lugares que são proibidos de construir.
 
 Analisar verificar todo sistema de bandeira
+
+Não conseguir desmontar portao t3
