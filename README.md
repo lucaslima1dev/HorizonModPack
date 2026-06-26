@@ -11,6 +11,8 @@ Resolver.
 
 Revisar Types.xml revisar todos os drops = 90% / Bolar formas de drop nbc... / Drop de armazenamentos.
 
+Colocar roupa black no vip.
+
 Rever regas.
 
 Fazer a loja funcionar = 90%
