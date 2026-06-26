@@ -1,9 +1,9 @@
 Ediçôes para servidor.
 
-Bolar formas de drop nbc.
+Bolar formas de drop nbc...
 
-Colocar lugares que são proibidos de construir.
+Colocar lugares que são proibidos de construir ok
 
-Analisar verificar todo sistema de bandeira
+Analisar verificar todo sistema de bandeira ok
 
-Não conseguir desmontar portao t3
+Não conseguir desmontar portao t3, ver com dev como bloquear desmontagem de portoees t3
