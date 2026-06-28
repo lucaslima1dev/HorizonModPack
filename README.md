@@ -5,17 +5,16 @@ Crash ao logar = resolvido
 Colocar lugares que são proibidos de construir ok
 Analisar verificar todo sistema de bandeira ok
 Revisar e alterar algumas regras.
-
+Erro que estava dando safe container (Ficar de olho).
+Colocar roupa black no vip ok
+Rever regas 0k
+Fazer a loja funcionar = 90%
 
 Resolver.
 
 Revisar Types.xml revisar todos os drops = 90% / Bolar formas de drop nbc... / Drop de armazenamentos.
 
-Colocar roupa black no vip.
 
-Rever regas.
-
-Fazer a loja funcionar = 90%
 
 
 Pedir Pro Dev.
